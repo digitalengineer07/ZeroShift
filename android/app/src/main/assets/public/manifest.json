@@ -1,0 +1,17 @@
+{
+  "name": "8-Puzzle Solver",
+  "short_name": "8-Puzzle",
+  "description": "An intelligent 8-Puzzle solver using A* algorithm.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#090c10",
+  "theme_color": "#090c10",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ]
+}
