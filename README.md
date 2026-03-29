@@ -31,10 +31,11 @@ Features:
     ZeroShift uses the A* algorithm with the formula:
 
                     f(n) = g(n) + h(n)
-                                Where:
-                                    g(n) = cost from the start state
-                                    h(n) = heuristic estimate to the goal
-                                    f(n) = total estimated cost
+  
+                                      Where:
+                                          g(n) = cost from the start state
+                                          h(n) = heuristic estimate to the goal
+                                          f(n) = total estimated cost
 The game uses Manhattan Distance as the heuristic to estimate how close the current board is to the goal state.
 
 * Gameplay Logic
