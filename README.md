@@ -29,8 +29,8 @@ Features:
 
 * How It Works
     ZeroShift uses the A* algorithm with the formula:
-                f(n) = g(n) + h(n)
 
+                    f(n) = g(n) + h(n)
                                 Where:
                                     g(n) = cost from the start state
                                     h(n) = heuristic estimate to the goal
